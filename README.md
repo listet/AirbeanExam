@@ -1,6 +1,6 @@
 # AirbeanExam
 
-Här är länken till vår figma-skiss: https://www.figma.com/file/92FGatTHBYzNSnibJt6iev/AirbeansExam?type=whiteboard&node-id=0-1&t=vk5ItjExxETFS2Mf-0 
+Här är länken till vår figma-skiss: [https://www.figma.com/file/92FGatTHBYzNSnibJt6iev/AirbeansExam?type=whiteboard&node-id=0-1&t=vk5ItjExxETFS2Mf-0 ](https://www.figma.com/file/92FGatTHBYzNSnibJt6iev/AirbeansExam?type=whiteboard&node-id=0-1&t=2nWtUEEYzL8Fuly5-0)
 
 ## Decomposition
 Vi delade upp Airbeans olika processer i 7 olika delar med namnen: **Gränssnittsdesign, Användarprofil, Produkter, Kundservice, Varukorg, Orderhantering** och **Betalningshantering**.
