@@ -9,7 +9,7 @@ Vi delade upp Airbeans olika processer i 7 olika delar med namnen: Gränssnittsd
 #### Gränssnittsdesign
 Förklarar de olika delarna som bildar webbappens gränssnitt så som responsivitet, färg och typsnitt. 
 #### Användarprofil 
-Innehåller de delar som är kopplade till en profil så som inloggning, att skapa ett konto och orderhistorik. 
+Innehåller de delar som är kopplade till en profil så som inloggning, att skapa ett konto, orderhistorik samt att produkter sparas i varukogen. 
 #### Produkter
 I denna del har vi lagt de komponenter som har med produkterna att göra så som produktkatalog och produktsök, dessa är kopplade till databasen där produkterna är registrerade.
 #### Kundservice
@@ -25,10 +25,13 @@ I orderhanteringen ingår alla de delar som innefattar beställningen:
 #### Betalningshantering
 Visar på att betalning sker, dock inget vi går in närmare då det sker av extern aktör. 
 
+
 ### Pattern recognition
+För att identifiera återkommande moment utgick vi bland annat ifrån vår decomposition och kunde där hitta gemensamma mönster och gemensamma nämnare t.ex. i design, datahantering, navigering, flöde, produktvisningar, varukorgens funktion samt profilanvändningen. Genom att sammanfatta dessa aspekter kan man skapa en helhetsbild av hur användare agerar, navigerar och identifieras inom Airbean-webbapplikationen, vilket i sin tur kan leda till förbättringar av användarupplevelsen och effektivisering av processer.
 
 
 ### Abstraction
+
 
 
 ### Algorithm design
